@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cubble"]
+	path = cubble
+	url = https://github.com/huizezhang-sherry/cubble
+	shallow = true
+	registered = true
+[submodule "ferrn"]
+	path = ferrn
+	url = https://github.com/huizezhang-sherry/ferrn
+	shallow = true
+	registered = true

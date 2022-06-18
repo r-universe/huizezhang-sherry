@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cubble",
+    "oncran": true
+  },
+  {
+    "package": "ferrn",
+    "oncran": true
+  }
+]
