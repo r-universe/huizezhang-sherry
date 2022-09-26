@@ -13,3 +13,18 @@
 	url = https://github.com/huizezhang-sherry/ferrn
 	shallow = true
 	registered = true
+[submodule "dplyr"]
+	path = dplyr
+	url = https://github.com/tidyverse/dplyr
+	shallow = true
+	registered = false
+[submodule "tidyselect"]
+	path = tidyselect
+	url = https://github.com/r-lib/tidyselect
+	shallow = true
+	registered = false
+[submodule "vctrs"]
+	path = vctrs
+	url = https://github.com/r-lib/vctrs
+	shallow = true
+	registered = false
