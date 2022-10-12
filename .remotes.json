@@ -8,19 +8,7 @@
   {
     "package": "lifecycle",
     "url": "https://github.com/r-lib/lifecycle",
-    "via": ["cubble", "dplyr"],
-    "from": "cubble"
-  },
-  {
-    "package": "lifecycle",
-    "url": "https://github.com/r-lib/lifecycle",
     "via": ["cubble"],
-    "from": "cubble"
-  },
-  {
-    "package": "tidyselect",
-    "url": "https://github.com/r-lib/tidyselect",
-    "via": ["cubble", "dplyr"],
     "from": "cubble"
   },
   {
@@ -39,6 +27,12 @@
     "package": "vctrs",
     "url": "https://github.com/r-lib/vctrs",
     "via": ["cubble"],
+    "from": "cubble"
+  },
+  {
+    "package": "vctrs",
+    "url": "https://github.com/r-lib/vctrs",
+    "via": ["cubble", "tidyselect"],
     "from": "cubble"
   }
 ]
