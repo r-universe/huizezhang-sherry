@@ -8,3 +8,6 @@
 [submodule "ferrn"]
 	path = ferrn
 	url = https://github.com/huizezhang-sherry/ferrn
+[submodule "tidyindex"]
+	path = tidyindex
+	url = https://github.com/huizezhang-sherry/tidyindex
